@@ -1,1 +1,1 @@
-# stranka k rocikovemu projektu 2
+# Stranka k rocikovemu projektu 2

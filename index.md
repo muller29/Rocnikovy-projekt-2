@@ -1,4 +1,4 @@
-# Stranka k rocikovemu projektu 2
+# Rocnokvy projekt 2
 
 [projekt na stiahnutie](https://github.com/muller29/Str-nka-ro-n-kov-ho-projektu-2/raw/master/db2_projekt_aplikacia-Konrad_Muller.zip)
 

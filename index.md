@@ -4,4 +4,4 @@ Projekt predstavuje dátový model bankového systému. Zaoberá sa hlavne s uch
 
 Dá sa stiahnuť [celý projekt](https://github.com/muller29/Str-nka-ro-n-kov-ho-projektu-2/raw/master/db2_projekt_aplikacia-Konrad_Muller.zip) vo formáte .zip.
 
-Vo formáte PDF sa dá pozrieť [špecifikácia](https://github.com/muller29/Str-nka-ro-n-kov-ho-projektu-2/blob/master/Zaverecna_sprava.pdf) k projektu, alebo stiahnuť [špecifikáciu](https://github.com/muller29/Str-nka-ro-n-kov-ho-projektu-2/raw/master/Zaverecna_sprava.pdf) tiež ako PDF.
+Vo formáte PDF sa dá pozrieť [špecifikáciu](https://github.com/muller29/Str-nka-ro-n-kov-ho-projektu-2/blob/master/Zaverecna_sprava.pdf) k projektu, alebo stiahnuť [špecifikáciu](https://github.com/muller29/Str-nka-ro-n-kov-ho-projektu-2/raw/master/Zaverecna_sprava.pdf) tiež ako PDF.
